@@ -5,7 +5,7 @@ O artigo trata sobre a mudança de cenários que a computação sofreu com o pas
 # 2. Fichamento Bibliográfico
 -	A computação passa a ser social no momento em que as pessoas começam a utilizá-la como uma das principais formas de comunicação e interações (página 31). 
 -	Engajar é utilizar um sistema por um período de tempo extenso enquanto interage com o mesmo (página 31). 
--	Credibilidade é o nível de confiança que tempos por uma pessoa (página 31).
+-	Credibilidade é o nível de confiança que temos por uma pessoa (página 31).
 -	Relação social é a forma como interagimos com pessoas e coisas ao nosso redor de acordo com o meio cultural em que crescemos em busca de determinadas emoções (página 32). 
 # 3. Fichamento de Citações 
 -	“Conectadas em rede, as pessoas podem se encontrar, formar comunidades, compartilhar interesses, cooperar e interagir com diversos propósitos.”
