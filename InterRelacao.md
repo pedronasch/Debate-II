@@ -4,6 +4,7 @@ O artigo “Perspectivas em Computação Social” busca discutir sobre como a s
 - Há alunos que não se sentem confortáveis em expor sua opinião em algumas situações, como o debate pode ser encaminhado para incluir e engajar esse tipo de estudante?
 - Em meio a tantas teorias existentes sobre a relação interação humano-computador, porque um sistema que siga todas as boas práticas da computação ainda acaba sofrendo com o problema de engajamento?
 - A credibilidade aparenta ser um problema sério para a computação. Já que não há um consenso de como resolvê-la, quais seriam boas práticas que os desenvolvedores poderiam adotar para diminuí-la?
+
 Como observado, apesar de abordarem temas diferentes inicialmente, é possível de que os conceitos empregados sejam inter-relacionados. Como os desafios da computação social ainda permanecem sem soluções aparentes, o que resta para o futuro da programação é contar com estudantes que estejam preparados e interessados em buscar soluções e que sejam capazes de defender aquilo que acreditam.
 
 Pedro Henrique Nascimento de Jesus
